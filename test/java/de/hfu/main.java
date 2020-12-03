@@ -8,7 +8,8 @@ public class main {
 		testResident test = new testResident();
 		test.testFilteredResidentsList();
 		test.testUniqueResident();
-
+		test.mockTest();
+		
 	}
 
 }
